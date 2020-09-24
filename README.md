@@ -1,4 +1,4 @@
-# BuzzFeed-News-Analysis-and-Classification
+# Natural-Language-Processing-BuzzFeed-News-Analysis-and-Classification
 
 FakenewsNet is a repository for an ongoing data collection project for fake news research at ASU. The repository consists of comprehensive dataset of Buzzfeed news and politifact which contains two separate datasets of real and fake news. The FakenewsNet consists of multi-dimension information that not only provides signals for detecting fake news but can also be used for researches such as understanding fake news propagation and fake news intervention. However, the repository is very wide and multi-dimensional, In this project, we perform a detailed analysis on Buzzfeed news dataset.  
 
