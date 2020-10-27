@@ -8,7 +8,7 @@ The Buzzfeed news dataset comprises a complete sample of news published in Faceb
 
 The Buzzfeed news dataset consists of two datasets contain the following main features:
 
-- id: the id assigned to the news article webpage Real if the article is real or fake if reported fake.
+- id: the id assigned to the news article webpage Real if the article is real or fake if reported fake. 
 
 - title : It refers to the headline that aims to catch the attention of readers and relates well to the major of the news topic.
 
