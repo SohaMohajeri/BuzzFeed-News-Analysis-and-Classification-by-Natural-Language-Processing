@@ -1,6 +1,17 @@
+<div align="center">
+  
 # BuzzFeed News Analysis and Classification
+</div>
 
-![4](https://user-images.githubusercontent.com/69224996/96525972-3661ab00-1231-11eb-815f-f9a1ddb7500b.jpg)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69224996/96525972-3661ab00-1231-11eb-815f-f9a1ddb7500b.jpg" >
+</div>
+
+<br />
+
+
+<div align="justify">
 
 FakenewsNet is a repository for an ongoing data collection project for fake news research at ASU. The repository consists of comprehensive dataset of Buzzfeed news and politifact which contains two separate datasets of real and fake news. The FakenewsNet consists of multi-dimension information that not only provides signals for detecting fake news but can also be used for researches such as understanding fake news propagation and fake news intervention. However, the repository is very wide and multi-dimensional, In this project, we perform a detailed analysis on Buzzfeed news dataset.
 
@@ -25,3 +36,8 @@ In this analysis, we do not consider features like url, top_img, authors, publis
 The two main features we care about are the source of the fake news and the language used in the fake news. In particular, we are interested in finding sources which published fake news and finding words that are more associated with one category than other.
 
 The main purpose of this analysis is to develop methods to analyze fake news versus real news. This project is divided into two parts: (1) Exploratory Data Analysis (2) Classification. The goal of the first part is to analyze the real and fake news datasets to find sources that often published fake news and determine the most frequent words included in the title and body of fake and real news. The goal of the second part is to a classifer that can predict and detect fakenews. We use three different classifiers to classify documents into real/fake news categories.
+
+</div>
+
+
+
