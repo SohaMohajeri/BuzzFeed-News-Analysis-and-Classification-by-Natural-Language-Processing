@@ -3,7 +3,6 @@
 # BuzzFeed News Analysis and Classification
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96525972-3661ab00-1231-11eb-815f-f9a1ddb7500b.jpg" >
 </div>
