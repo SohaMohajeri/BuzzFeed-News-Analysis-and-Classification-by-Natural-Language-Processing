@@ -37,5 +37,3 @@ The main purpose of this analysis is to develop methods to analyze fake news ver
 
 </div>
 
-
-
