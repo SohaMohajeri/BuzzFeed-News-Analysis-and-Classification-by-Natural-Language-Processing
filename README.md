@@ -36,4 +36,3 @@ The two main features we care about are the source of the fake news and the lang
 The main purpose of this analysis is to develop methods to analyze fake news versus real news. This project is divided into two parts: (1) Exploratory Data Analysis (2) Classification. The goal of the first part is to analyze the real and fake news datasets to find sources that often published fake news and determine the most frequent words included in the title and body of fake and real news. The goal of the second part is to a classifer that can predict and detect fakenews. We use three different classifiers to classify documents into real/fake news categories.
 
 </div>
-
